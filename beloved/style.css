@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background:url(IMG_3436.jpg)no-repeat center fixed;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    color: black;
+    font-family: 'brush script MT', cursive; 
+    font-size: 25px;
+    font-variant-caps:bold;
+  
+  }
+  h2{
+    font-family: ;
+  }
+  h4{
+    font-family:rockwell ;
+    font-size: 17px;
+    line-height: 17px;
+    color: whitesmoke
+  }
+  h3{
+    font-family:Arial, Helvetica, sans-serif ;
+    line-height: 16px;
+    color: whitesmoke
+  }
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+  button{
+    border-radius: 10px;
+    width: 70px;
+    height: 40px;
+    color: black;
+    background-color: aqua; 
+  }
+  button:hover{
+    background-color: lightblue;
+  }
+  audio{
+    align-content: center;
+    background-color: transparent;
+    color: lightblue;
+  }  
